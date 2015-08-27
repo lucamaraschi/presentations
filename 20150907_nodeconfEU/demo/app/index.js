@@ -11,7 +11,6 @@ demo.defineAction$('runner', function(startnumber){
     while(--iterator) {
         var num = startnumber;
         num = startnumber + iterator;
-        virgilio.log.trace('Current number ', num);
     }
 
     return num;
