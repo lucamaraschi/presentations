@@ -1,0 +1,30 @@
+var Virgilio = require('virgilio');
+var virgilio = new Virgilio();
+virgilio.loadModule$(require('virgilio-http'));
+
+virgilio.http.use$(virgilio.http.bodyParser());
+virgilio.http.use$(virgilio.http.queryParser());
+
+var demo = virgilio.namespace$('demo');
+demo.defineAction$('runner', function(startnumber){
+    var iterator = 10000;
+    while(--iterator) {
+        var num = startnumber;
+        num = startnumber + iterator;
+    }
+
+    return startnumber;
+});
+
+virgilio.http.get('/demo/run/forrest/:startnumber')
+    .addHandler(function(req, res) {
+        setTimeout()
+    })
+    .addHandler(function(req, res){
+        var virgilio = this;
+        return virgilio.demo.runner(req.params.startnumber)
+            .then(function(result) {
+                res.send(200, result);
+        });
+});
+
