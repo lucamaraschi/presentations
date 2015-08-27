@@ -6,14 +6,17 @@ virgilio.http.use$(virgilio.http.bodyParser());
 virgilio.http.use$(virgilio.http.queryParser());
 
 var demo = virgilio.namespace$('demo');
-demo.defineAction$('runner', function(startnumber){
-    var iterator = 10000;
-    while(--iterator) {
-        var num = startnumber;
-        num = startnumber + iterator;
+demo.defineAction$('runner', function(numberOfIterations){
+    var num1, num2, tmp;
+    num1 = num2 = 1;
+
+    while(--numberOfIterations) {
+        tmp = num1;
+        num1 = num2;
+        num2 = num1 + tmp;
     }
 
-    return num;
+    return num2;
 });
 
 virgilio.http.get('/demo/run/forrest/:startnumber')
@@ -24,7 +27,7 @@ virgilio.http.get('/demo/run/forrest/:startnumber')
         var virgilio = this;
         return virgilio.demo.runner(parseInt(req.params.startnumber))
             .then(function(result) {
-                res.send(200, result);
+                res.send(200, 'Your number is ' + result);
         });
 });
 
