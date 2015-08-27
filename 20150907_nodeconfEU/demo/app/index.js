@@ -26,7 +26,8 @@ virgilio.http.get('/demo/run/forrest/:startnumber')
     .addHandler(function(req, res){
         var virgilio = this;
         return virgilio.demo.runner(parseInt(req.params.startnumber))
-            .then(function(result) {
+        .then(function(result) {
+                res.contentType= 'text/plain';
                 res.send(200, 'Your number is ' + result);
         });
 });
