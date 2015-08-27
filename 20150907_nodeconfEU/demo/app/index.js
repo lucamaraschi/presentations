@@ -11,9 +11,10 @@ demo.defineAction$('runner', function(startnumber){
     while(--iterator) {
         var num = startnumber;
         num = startnumber + iterator;
+        virgilio.log.trace('Current number ', num);
     }
 
-    return startnumber;
+    return num;
 });
 
 virgilio.http.get('/demo/run/forrest/:startnumber')
