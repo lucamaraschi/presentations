@@ -1,5 +1,9 @@
 var Virgilio = require('virgilio');
-var virgilio = new Virgilio();
+var virgilio = new Virgilio({
+    logger: {
+        level: 'error'
+    }
+});
 virgilio.loadModule$(require('virgilio-http'));
 
 virgilio.http.use$(virgilio.http.bodyParser());
