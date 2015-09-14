@@ -10,7 +10,7 @@
 # Who Am I?
 ## @lucamaraschi
 ## Software Architect @icemobile
-## “{core}Dumps Watching”
+## “:heart: {core}Dumps Watching”
 
 —
 
@@ -19,8 +19,9 @@
 —
 
 # [fit] Disclaimers
-## [fit] it did not take *ONLY 20 minutes*
-## [fit] I do not work for Joyent!
+# [fit] it did not take *ONLY 20 minutes*
+# [fit] I do not work for Joyent!
+# [fit] I do not work for Netflix!
 
 —
 
@@ -30,12 +31,39 @@
 
 —
 
-# [fit] So…
-# [fit] 3AM…and this
+# [fit] But don’t worry…
+# [fit] you can still dump on linux!
+
+—
+
+# [fit]Sorry take CORE DUMPS!
+
+—
+
+# [fit] Like everybody else
+# [fit] we deployed node in production
+# [fit] and…
+
+—
+
+# [fit] 3AM
+# [fit] …and this
+
+—
+
+# [fit] are not the 3AM
+# [fit] that YUNONG mentioned
+# [fit] at Netflix!
 
 —
 
 ![fill](./images/war_room.jpg)
+
+—
+
+# [fit] But it’s still
+# [fit] WAR
+# [fit] and 3AM in the night!
 
 —
 
@@ -57,11 +85,20 @@
 
 —
 
+# [fit] Microservice context
+
+—
+
 ![fill 150%](./images/machine_pattern.png)
 
 —
 
 # [fit] Let’s the hack begin!
+
+—
+
+# [fit] Let’s take a dump
+# [fit] on AWS…sorry of node on AWS!
 
 —
 
@@ -395,6 +432,11 @@ done
 ## *“One reason I think debugging is so hard: you need to know much more about how computers work to debug than you do to program.”*
 
 #### Dave Pacheco(Twitter - 18 August 2015)
+
+—
+
+# [fit]Wanna watch some dumps?
+# [fit]Come to me, I can help you!
 
 —
 
