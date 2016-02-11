@@ -1,3 +1,7 @@
+# [fit] TO BE
+# [fit] ANNOUNCED
+
+—
 
 # [fit] The day after 
 # [fit] Production
@@ -9,6 +13,10 @@
 ---
 
 # [fit] :heart: :shit:
+
+—
+
+# [fit] do epic shit!
 
 —
 
@@ -49,7 +57,20 @@
 
 —
 
+![fit](./images/walmart_leak_graph.png)
 
+—
+
+# [fit] 150MB leak per day!
+
+—
+
+# [fit] 3 months of debugging…
+
+—
+
+# [fit] mdb…
+### or suffer!
 
 —
 
@@ -142,6 +163,15 @@ next();
 
 —
 
+# [fit] Thank u **Netflix**!
+### and chill… 
+
+—
+
+# [fit] :heavy_check_mark:
+
+—
+
 # [fit] **3.**
 ## [fit] Joyent
 
@@ -160,6 +190,10 @@ next();
 —
 
 # [fit] Thank you **Joyent**!
+
+—
+
+# [fit] in progress…
 
 —
 
@@ -185,8 +219,47 @@ next();
 
 —
 
-# [fit] Post-mortem & node.js
+# [fit] --abort-on-uncaught-exception
+
+—
+
+![fit](./images/raynos_issue5084.png)
+
+—
+
 # [fit] what’s next?
+
+—
+
+# [fit] post-mortem analysis
+# [fit] **cross platform!**
+
+—
+
+# [fit] **mdb** like
+# [fit] everywhere!
+
+—
+
+![fit](./images/uber_mdb.png)
+
+—
+
+![fit](./images/yunong_mdb.png)
+
+—
+
+![fit](./images/dap_mdb_format.png)
+
+—
+
+# [fit] github.com/indutny/**llnode**
+## @indutny
+
+—
+
+# [fit] **Community** driven
+# [fit] enterprise **effort**
 
 —
 
@@ -196,7 +269,7 @@ next();
 
 ---
 
-# [fit] :heart:
+# [fit] Thank you all!
 
 
 
