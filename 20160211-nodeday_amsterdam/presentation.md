@@ -3,8 +3,8 @@
 
 —
 
-# [fit] The day after 
-# [fit] Production
+# [fit] The **Day** after 
+# [fit] **PRODUCTION**
 
 ---
 
@@ -16,11 +16,15 @@
 
 —
 
-# [fit] do epic shit!
+# [fit] I LOVE **CORE DUMPS**!
 
 —
 
 ![fit](./images/logo.png)
+
+—
+
+# [fit] do epic shit!
 
 —
 
@@ -29,8 +33,12 @@
 
 ---
 
-# 3 stories
-# of real production war
+![fit](./images/bryan.png)
+
+—
+
+# [fit] 3 stories
+# [fit] of real production war
 
 —
 
@@ -57,11 +65,29 @@
 
 —
 
+# [fit] _handleScope_
+### __keeps track of the objects on stack__
+
+—
+
 ![fit](./images/walmart_leak_graph.png)
 
 —
 
+![fit](./images/walmart_flame.png)
+
+—
+
 # [fit] 150MB leak per day!
+
+—
+
+# [fit] down to 22…
+
+—
+
+# [fit] but still **too much** 
+### for the volume of Walmart!
 
 —
 
@@ -71,6 +97,16 @@
 
 # [fit] mdb…
 ### or suffer!
+
+—
+
+# [fit] and Dtrace…
+#### or die!
+
+—
+
+# [fit] Yep…and our workers
+# [fit] **were leaking** too! ;-)
 
 —
 
@@ -100,6 +136,10 @@
 —
 
 # [fit] Flame graphs
+
+—
+
+# [fit] and…
 
 —
 
@@ -145,12 +185,21 @@ next();
 
 —
 
-# [fit] Restify
+# [fit] the answer
+# is…
+
+—
+
+# [fit] **Restify**
 
 —
 
 # [fit] First class resident
-# [fit] Traceability
+# [fit] **Traceability**
+
+—
+
+# [fit] but how?
 
 —
 
@@ -158,7 +207,7 @@ next();
 
 —
 
-# [fit] Dtrace
+# [fit] Dtrace probes
 #### or die! 
 
 —
@@ -197,6 +246,27 @@ next();
 
 —
 
+# [fit] actually…
+# [fit] I just heard…
+
+—
+
+# [fit] **quote_literal()**
+# [fit] vs.
+# [fit] **quote_ident()**
+
+—
+
+# [fit] wrong quote
+# [fit] ===
+# [fit] **∞** LOOP
+
+—
+
+![fit](./images/homer.jpg)
+
+—
+
 # [fit] Production
 # [fit] __Operability__
 
@@ -216,6 +286,14 @@ next();
 
 # [fit] github.com/nodejs/**tracing-wg**
 # [fit] github.com/nodejs/**post-mortem**
+
+—
+
+![fit](./images/dapper_paper.png)
+
+—
+
+![fit](./images/zipkin.png)
 
 —
 
@@ -270,6 +348,8 @@ next();
 ---
 
 # [fit] Thank you all!
+### **do u like Epic Shit?**
+## **JOIN #IceMobile!**
 
 
 
