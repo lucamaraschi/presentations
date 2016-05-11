@@ -3,7 +3,33 @@
 
 —
 
-# [fit] @lucamaraschi
+# [fit] **@lucamaraschi**
+# [fit] nodejs/post-mortem
+
+—
+
+# [fit]The magic dump :shit:
+
+—
+
+# [fit] Porting mdb to linux
+# [fit] Common heap dump format
+
+—
+
+# **Disclaimer!**
+## It’s just my opinion!
+## I don’t work for UBER
+
+—
+
+# [fit] I have a dream
+# [fit] Autonomous **cluster**
+# [fit] **with no configuration**
+
+—
+
+# [fit] flow driven development
 
 —
 
@@ -21,6 +47,10 @@
 —
 
 ![](./images/java_monolith.jpg)
+
+—
+
+![](./images/oracle.jpg)
 
 —
 
@@ -67,13 +97,13 @@
 
 —
 
-# [fit] more “racks”
-# [fit] === service discovery
+# [fit] **docker…**
+# [fit] does not solve the problem!
 
 —
 
-# [fit] **docker…**
-# [fit] does not solve the problem!
+# [fit] more “containers”
+# [fit] === service discovery
 
 —
 
@@ -86,8 +116,19 @@
 
 —
 
+# [fit] Failures
+# [fit] are detected by heartbeats 
+
+—
+
 # [fit] welcome in 
 # [fit] **devOps hell!**
+
+—
+
+# [fit] Problem
+# [fit] **state** of the cluster
+# [fit] **might change** all the time
 
 —
 
@@ -139,7 +180,10 @@
 —
 
 # [fit] Add a node to the cluster
-# [fit] How to rebalance the topology?
+
+—
+
+# [fit] How to re**balance** the **topology**?
 
 —
 
@@ -218,12 +262,66 @@
 
 —
 
-# [fit] λ
+# [fit] **HTTP**
+# [fit] and the latency
+
+—
+
+# [fit] Don’t use it!
+### for in-network communication!
+
+—
+
+![fit](./images/tchannel.png)
+
+—
+
+> TChannel is a networking framing protocol used for general RPC, supporting out-of-order responses at extremely high performance where intermediaries can make a forwarding decision quickly
+
+— @Matt Sweeney
+
+—
+
+# [fit] WHY **RPC**?
+
+—
+
+# [fit] ARE **FUNCTIONS**!
+# [fit] running on a cluster!
+
+—
+
+# [fit] AWS LAMBDA
+
+—
+
+### kills the
+# [fit] **~~Development workflow~~**
+
+—
+
+# [fit] Abstract the development
+# [fit] **distribution complexity**
 
 —
 
 # [fit] “Serverless”
 ## is the new hipster!
+
+—
+
+# [fit] “Functional”
+## is the new hipster!
+
+—
+
+# [fit] “distributed functions”
+## are the future ;-)
+
+—
+
+# [fit] Grazie!
+
 
 
 
